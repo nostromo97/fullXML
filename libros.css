@@ -1,0 +1,12 @@
+* { 
+    
+    display:block;
+    color:blue;
+}
+titulo{
+	color: black;
+}
+precio {
+    background-color: yellow;
+    font-weight:bold;
+}
