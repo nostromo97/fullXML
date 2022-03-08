@@ -4,22 +4,22 @@
 <libros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/carol/Desktop/fullXML/libros.xsd">
 	<libro>
 		<titulo>Everyday Italian</titulo>
-		<año>2005</año>
-		<precio moneda="€">39.99</precio>
+		<año>• Año: 2005</año>
+		<precio moneda="€">• 39.99</precio>
 	</libro>
 	<libro>
 		<titulo>Harry Potter</titulo>
-		<año>2005</año>
-		<precio moneda= "€">29.99</precio>
+		<año>• Año: 2005</año>
+		<precio moneda= "€">• 29.99</precio>
 	</libro>
 	<libro>
 		<titulo>XQuery Kick Start</titulo>
-		<año>2003</año>
-		<precio moneda= "€">49.99</precio>
+		<año>• Año: 2003</año>
+		<precio moneda= "€">• 49.99</precio>
 	</libro>
 	<libro>
 		<titulo lang="en">Learning XML</titulo>
-		<año>2003</año>
-		<precio>39.95</precio>
+		<año>• Año: 2003</año>
+		<precio>• 39.95</precio>
 	</libro>
 </libros>

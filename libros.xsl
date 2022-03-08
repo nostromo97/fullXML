@@ -7,17 +7,15 @@
 		</html>
 	</xsl:template>
 	
-	<xsl:template match="libro">
-		<h2>
-			<xsl:value-of select="titulo"/>
-		</h2>
-		<p>
-			<xsl:value-of select="año"/>
-		</p>
-		<span>
-			<xsl:value-of select="precio"/>
+  <xsl:template match=" libro">
+     <p>
+      <h2>
+     <xsl:value-of select="titulo"/>
+     </h2>
+     <xsl:value-of select="autor"/>
+     <span>
+		<xsl:value-of select="precio">
 		</span>
-			
-			
-	</xsl:template>
+     </p>
+  </xsl:template>
 </xsl:stylesheet>
