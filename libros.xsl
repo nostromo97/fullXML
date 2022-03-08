@@ -9,11 +9,11 @@
 	
   <xsl:template match=" libro">
      <p>
-      <h2>
-     <xsl:value-of select="titulo"/>
-     </h2>
-     <xsl:value-of select="autor"/>
-     <span>
+      	<h2>
+     	<xsl:value-of select="titulo"/>
+     	</h2>
+     	<xsl:value-of select="autor"/>
+     	<span>
 		<xsl:value-of select="precio">
 		</span>
      </p>
